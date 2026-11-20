@@ -28,3 +28,6 @@ An interactive and fun quiz application built to test knowledge with instant res
 ## 📬 Contact
 - GitHub: https://github.com/Umama-Noor
 - LinkedIn: https://www.linkedin.com/in/umama-noor
+
+## Screenshot
+![Quiz App Screenshot](./Quiz%20App%20screenshot.png)
